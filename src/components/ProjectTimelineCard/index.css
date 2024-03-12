@@ -1,0 +1,13 @@
+/* Write your CSS here */
+.projects-card-image {
+  width: 200px;
+  height: 200px;
+}
+.project-heading-time-container {
+  display: flex;
+  justify-content: space-between;
+}
+.project-icon-container {
+  display: flex;
+  align-items: center;
+}

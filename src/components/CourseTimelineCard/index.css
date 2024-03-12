@@ -1,0 +1,23 @@
+/* Write your CSS here */
+.list-container {
+  list-style-type: none;
+  display: flex;
+  flex-wrap: wrap;
+}
+.list-item {
+  background-color: #1e293b;
+  padding: 6px;
+  margin: 3px;
+  color: #fff;
+}
+.course-card {
+  width: 500px;
+}
+.course-heading-container {
+  display: flex;
+  justify-content: space-between;
+}
+.icon-container {
+  display: flex;
+  align-items: center;
+}
